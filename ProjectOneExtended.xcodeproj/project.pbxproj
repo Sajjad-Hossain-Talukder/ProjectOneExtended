@@ -29,7 +29,6 @@
 		B61B2ED32B45366900550708 /* Poppins-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B61B2EC02B45366900550708 /* Poppins-MediumItalic.ttf */; };
 		B61B2ED62B4539B900550708 /* GalleryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B61B2ED52B4539B900550708 /* GalleryView.swift */; };
 		B61B2ED82B453CFE00550708 /* TitleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B61B2ED72B453CFE00550708 /* TitleView.swift */; };
-		B61B2EDA2B453F7E00550708 /* CenterLogoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B61B2ED92B453F7E00550708 /* CenterLogoView.swift */; };
 		B61B2EDC2B4540A600550708 /* MenuButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B61B2EDB2B4540A600550708 /* MenuButtonView.swift */; };
 		B61B2EDE2B4543B600550708 /* MenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B61B2EDD2B4543B600550708 /* MenuView.swift */; };
 		B61B2EE02B454A9900550708 /* NavButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B61B2EDF2B454A9900550708 /* NavButtonView.swift */; };
@@ -39,7 +38,6 @@
 		B61B2EE82B4572F800550708 /* HomeProjectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B61B2EE72B4572F800550708 /* HomeProjectView.swift */; };
 		B61B2EEA2B457D8700550708 /* ProjectTopView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B61B2EE92B457D8700550708 /* ProjectTopView.swift */; };
 		B61B2EEC2B45800900550708 /* ProjectButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B61B2EEB2B45800900550708 /* ProjectButtonView.swift */; };
-		B61B2EEE2B45826A00550708 /* ProjectMenuOneView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B61B2EED2B45826A00550708 /* ProjectMenuOneView.swift */; };
 		B61B2EF02B4586C400550708 /* ProjectMenuTwoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B61B2EEF2B4586C400550708 /* ProjectMenuTwoView.swift */; };
 		B61B2EF22B45883300550708 /* ProjectMidView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B61B2EF12B45883300550708 /* ProjectMidView.swift */; };
 		B61B2EF42B458D6900550708 /* ProjectBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B61B2EF32B458D6900550708 /* ProjectBarView.swift */; };
@@ -47,11 +45,21 @@
 		B61B2EF82B459B5600550708 /* TestUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = B61B2EF72B459B5500550708 /* TestUI.swift */; };
 		B61B2EFA2B45ABE800550708 /* ProjectGridThumbnilView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B61B2EF92B45ABE800550708 /* ProjectGridThumbnilView.swift */; };
 		B61B2EFC2B45ADA000550708 /* ProjectGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B61B2EFB2B45AD9F00550708 /* ProjectGridView.swift */; };
+		B6442BB82B46A9BB00DF6FFC /* DrawerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6442BB72B46A9BB00DF6FFC /* DrawerView.swift */; };
+		B6442BBB2B46B00800DF6FFC /* CommingSoonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6442BBA2B46B00800DF6FFC /* CommingSoonView.swift */; };
+		B6442BBF2B46D18600DF6FFC /* ScreenTopView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6442BBE2B46D18600DF6FFC /* ScreenTopView.swift */; };
+		B6442BC12B46D9A500DF6FFC /* ScreenBannerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6442BC02B46D9A500DF6FFC /* ScreenBannerView.swift */; };
+		B6442BC52B46DD7700DF6FFC /* HomeCenterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6442BC42B46DD7700DF6FFC /* HomeCenterView.swift */; };
+		B6442BC72B46DDC900DF6FFC /* ScreenCenterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6442BC62B46DDC900DF6FFC /* ScreenCenterView.swift */; };
+		B6442BC92B46E60400DF6FFC /* ScreenCapsuleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6442BC82B46E60400DF6FFC /* ScreenCapsuleView.swift */; };
+		B6442BCB2B46EAA100DF6FFC /* ScreenIdeaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6442BCA2B46EAA100DF6FFC /* ScreenIdeaView.swift */; };
+		B6442BCD2B46F14400DF6FFC /* ScreenTimerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6442BCC2B46F14400DF6FFC /* ScreenTimerView.swift */; };
+		B647F9C02B470231008FE96C /* ScreenRecordingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B647F9BF2B470231008FE96C /* ScreenRecordingView.swift */; };
 		B672B1402B4441A700DC841F /* ProjectOneExtendedApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B672B13F2B4441A700DC841F /* ProjectOneExtendedApp.swift */; };
 		B672B1442B4441A800DC841F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B672B1432B4441A800DC841F /* Assets.xcassets */; };
 		B672B1472B4441A800DC841F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B672B1462B4441A800DC841F /* Preview Assets.xcassets */; };
 		B672B1512B44445800DC841F /* HomePageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B672B1502B44445800DC841F /* HomePageView.swift */; };
-		B672B1532B44446400DC841F /* ProjectPageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B672B1522B44446400DC841F /* ProjectPageView.swift */; };
+		B672B1532B44446400DC841F /* HomeMoreToolsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B672B1522B44446400DC841F /* HomeMoreToolsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -78,7 +86,6 @@
 		B61B2ED42B4536A000550708 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		B61B2ED52B4539B900550708 /* GalleryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GalleryView.swift; sourceTree = "<group>"; };
 		B61B2ED72B453CFE00550708 /* TitleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleView.swift; sourceTree = "<group>"; };
-		B61B2ED92B453F7E00550708 /* CenterLogoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CenterLogoView.swift; sourceTree = "<group>"; };
 		B61B2EDB2B4540A600550708 /* MenuButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuButtonView.swift; sourceTree = "<group>"; };
 		B61B2EDD2B4543B600550708 /* MenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
 		B61B2EDF2B454A9900550708 /* NavButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavButtonView.swift; sourceTree = "<group>"; };
@@ -88,7 +95,6 @@
 		B61B2EE72B4572F800550708 /* HomeProjectView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeProjectView.swift; sourceTree = "<group>"; };
 		B61B2EE92B457D8700550708 /* ProjectTopView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectTopView.swift; sourceTree = "<group>"; };
 		B61B2EEB2B45800900550708 /* ProjectButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectButtonView.swift; sourceTree = "<group>"; };
-		B61B2EED2B45826A00550708 /* ProjectMenuOneView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectMenuOneView.swift; sourceTree = "<group>"; };
 		B61B2EEF2B4586C400550708 /* ProjectMenuTwoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectMenuTwoView.swift; sourceTree = "<group>"; };
 		B61B2EF12B45883300550708 /* ProjectMidView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectMidView.swift; sourceTree = "<group>"; };
 		B61B2EF32B458D6900550708 /* ProjectBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectBarView.swift; sourceTree = "<group>"; };
@@ -96,12 +102,22 @@
 		B61B2EF72B459B5500550708 /* TestUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestUI.swift; sourceTree = "<group>"; };
 		B61B2EF92B45ABE800550708 /* ProjectGridThumbnilView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectGridThumbnilView.swift; sourceTree = "<group>"; };
 		B61B2EFB2B45AD9F00550708 /* ProjectGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectGridView.swift; sourceTree = "<group>"; };
+		B6442BB72B46A9BB00DF6FFC /* DrawerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawerView.swift; sourceTree = "<group>"; };
+		B6442BBA2B46B00800DF6FFC /* CommingSoonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommingSoonView.swift; sourceTree = "<group>"; };
+		B6442BBE2B46D18600DF6FFC /* ScreenTopView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScreenTopView.swift; sourceTree = "<group>"; };
+		B6442BC02B46D9A500DF6FFC /* ScreenBannerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScreenBannerView.swift; sourceTree = "<group>"; };
+		B6442BC42B46DD7700DF6FFC /* HomeCenterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeCenterView.swift; sourceTree = "<group>"; };
+		B6442BC62B46DDC900DF6FFC /* ScreenCenterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScreenCenterView.swift; sourceTree = "<group>"; };
+		B6442BC82B46E60400DF6FFC /* ScreenCapsuleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScreenCapsuleView.swift; sourceTree = "<group>"; };
+		B6442BCA2B46EAA100DF6FFC /* ScreenIdeaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScreenIdeaView.swift; sourceTree = "<group>"; };
+		B6442BCC2B46F14400DF6FFC /* ScreenTimerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScreenTimerView.swift; sourceTree = "<group>"; };
+		B647F9BF2B470231008FE96C /* ScreenRecordingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScreenRecordingView.swift; sourceTree = "<group>"; };
 		B672B13C2B4441A700DC841F /* ProjectOneExtended.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ProjectOneExtended.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B672B13F2B4441A700DC841F /* ProjectOneExtendedApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectOneExtendedApp.swift; sourceTree = "<group>"; };
 		B672B1432B4441A800DC841F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B672B1462B4441A800DC841F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B672B1502B44445800DC841F /* HomePageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePageView.swift; sourceTree = "<group>"; };
-		B672B1522B44446400DC841F /* ProjectPageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectPageView.swift; sourceTree = "<group>"; };
+		B672B1522B44446400DC841F /* HomeMoreToolsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeMoreToolsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,27 +134,11 @@
 		B61B2EAA2B45341800550708 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				B61B2EAB2B45342A00550708 /* TopBarView.swift */,
-				B61B2ED52B4539B900550708 /* GalleryView.swift */,
-				B61B2ED72B453CFE00550708 /* TitleView.swift */,
-				B61B2ED92B453F7E00550708 /* CenterLogoView.swift */,
-				B61B2EDB2B4540A600550708 /* MenuButtonView.swift */,
-				B61B2EDD2B4543B600550708 /* MenuView.swift */,
-				B61B2EDF2B454A9900550708 /* NavButtonView.swift */,
-				B61B2EE12B454D1700550708 /* NavTopView.swift */,
-				B61B2EE32B454F5400550708 /* NavigationBar.swift */,
-				B61B2EE52B4572AB00550708 /* HomeToolsView.swift */,
-				B61B2EE72B4572F800550708 /* HomeProjectView.swift */,
-				B61B2EE92B457D8700550708 /* ProjectTopView.swift */,
-				B61B2EEB2B45800900550708 /* ProjectButtonView.swift */,
-				B61B2EED2B45826A00550708 /* ProjectMenuOneView.swift */,
-				B61B2EEF2B4586C400550708 /* ProjectMenuTwoView.swift */,
-				B61B2EF12B45883300550708 /* ProjectMidView.swift */,
-				B61B2EF32B458D6900550708 /* ProjectBarView.swift */,
-				B61B2EF52B45910500550708 /* ProjectMenuView.swift */,
-				B61B2EF72B459B5500550708 /* TestUI.swift */,
-				B61B2EF92B45ABE800550708 /* ProjectGridThumbnilView.swift */,
-				B61B2EFB2B45AD9F00550708 /* ProjectGridView.swift */,
+				B6442BB32B468AB400DF6FFC /* HomeTools */,
+				B6442BB42B468ACB00DF6FFC /* HomeNavigation */,
+				B6442BB22B468A8E00DF6FFC /* HomeProject */,
+				B6442BB92B46AFE100DF6FFC /* HomeDrawer */,
+				B6442BCE2B46FD7700DF6FFC /* ScreenRecording */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -167,6 +167,78 @@
 				B61B2EC02B45366900550708 /* Poppins-MediumItalic.ttf */,
 			);
 			path = fonts;
+			sourceTree = "<group>";
+		};
+		B6442BB12B46890C00DF6FFC /* HomePage */ = {
+			isa = PBXGroup;
+			children = (
+				B61B2EE52B4572AB00550708 /* HomeToolsView.swift */,
+				B61B2EE72B4572F800550708 /* HomeProjectView.swift */,
+				B672B1502B44445800DC841F /* HomePageView.swift */,
+			);
+			path = HomePage;
+			sourceTree = "<group>";
+		};
+		B6442BB22B468A8E00DF6FFC /* HomeProject */ = {
+			isa = PBXGroup;
+			children = (
+				B61B2EFB2B45AD9F00550708 /* ProjectGridView.swift */,
+				B61B2EF92B45ABE800550708 /* ProjectGridThumbnilView.swift */,
+				B61B2EE92B457D8700550708 /* ProjectTopView.swift */,
+				B61B2EEB2B45800900550708 /* ProjectButtonView.swift */,
+				B61B2EEF2B4586C400550708 /* ProjectMenuTwoView.swift */,
+				B61B2EF12B45883300550708 /* ProjectMidView.swift */,
+				B61B2EF32B458D6900550708 /* ProjectBarView.swift */,
+				B61B2EF52B45910500550708 /* ProjectMenuView.swift */,
+			);
+			path = HomeProject;
+			sourceTree = "<group>";
+		};
+		B6442BB32B468AB400DF6FFC /* HomeTools */ = {
+			isa = PBXGroup;
+			children = (
+				B672B1522B44446400DC841F /* HomeMoreToolsView.swift */,
+				B61B2EAB2B45342A00550708 /* TopBarView.swift */,
+				B61B2ED52B4539B900550708 /* GalleryView.swift */,
+				B61B2ED72B453CFE00550708 /* TitleView.swift */,
+				B61B2EDB2B4540A600550708 /* MenuButtonView.swift */,
+				B61B2EDD2B4543B600550708 /* MenuView.swift */,
+				B6442BC42B46DD7700DF6FFC /* HomeCenterView.swift */,
+			);
+			path = HomeTools;
+			sourceTree = "<group>";
+		};
+		B6442BB42B468ACB00DF6FFC /* HomeNavigation */ = {
+			isa = PBXGroup;
+			children = (
+				B61B2EDF2B454A9900550708 /* NavButtonView.swift */,
+				B61B2EE12B454D1700550708 /* NavTopView.swift */,
+				B61B2EE32B454F5400550708 /* NavigationBar.swift */,
+			);
+			path = HomeNavigation;
+			sourceTree = "<group>";
+		};
+		B6442BB92B46AFE100DF6FFC /* HomeDrawer */ = {
+			isa = PBXGroup;
+			children = (
+				B61B2EF72B459B5500550708 /* TestUI.swift */,
+				B6442BB72B46A9BB00DF6FFC /* DrawerView.swift */,
+				B6442BBA2B46B00800DF6FFC /* CommingSoonView.swift */,
+			);
+			path = HomeDrawer;
+			sourceTree = "<group>";
+		};
+		B6442BCE2B46FD7700DF6FFC /* ScreenRecording */ = {
+			isa = PBXGroup;
+			children = (
+				B6442BBE2B46D18600DF6FFC /* ScreenTopView.swift */,
+				B6442BC02B46D9A500DF6FFC /* ScreenBannerView.swift */,
+				B6442BC62B46DDC900DF6FFC /* ScreenCenterView.swift */,
+				B6442BC82B46E60400DF6FFC /* ScreenCapsuleView.swift */,
+				B6442BCC2B46F14400DF6FFC /* ScreenTimerView.swift */,
+				B6442BCA2B46EAA100DF6FFC /* ScreenIdeaView.swift */,
+			);
+			path = ScreenRecording;
 			sourceTree = "<group>";
 		};
 		B672B1332B4441A700DC841F = {
@@ -210,8 +282,8 @@
 			isa = PBXGroup;
 			children = (
 				B672B13F2B4441A700DC841F /* ProjectOneExtendedApp.swift */,
-				B672B1502B44445800DC841F /* HomePageView.swift */,
-				B672B1522B44446400DC841F /* ProjectPageView.swift */,
+				B6442BB12B46890C00DF6FFC /* HomePage */,
+				B647F9BF2B470231008FE96C /* ScreenRecordingView.swift */,
 			);
 			path = App;
 			sourceTree = "<group>";
@@ -310,24 +382,32 @@
 				B61B2EE62B4572AB00550708 /* HomeToolsView.swift in Sources */,
 				B672B1512B44445800DC841F /* HomePageView.swift in Sources */,
 				B61B2EF82B459B5600550708 /* TestUI.swift in Sources */,
-				B672B1532B44446400DC841F /* ProjectPageView.swift in Sources */,
+				B672B1532B44446400DC841F /* HomeMoreToolsView.swift in Sources */,
 				B61B2EE82B4572F800550708 /* HomeProjectView.swift in Sources */,
 				B61B2EFA2B45ABE800550708 /* ProjectGridThumbnilView.swift in Sources */,
 				B61B2EE02B454A9900550708 /* NavButtonView.swift in Sources */,
 				B61B2EAC2B45342A00550708 /* TopBarView.swift in Sources */,
 				B61B2EF22B45883300550708 /* ProjectMidView.swift in Sources */,
+				B6442BCD2B46F14400DF6FFC /* ScreenTimerView.swift in Sources */,
+				B647F9C02B470231008FE96C /* ScreenRecordingView.swift in Sources */,
+				B6442BBF2B46D18600DF6FFC /* ScreenTopView.swift in Sources */,
+				B6442BC52B46DD7700DF6FFC /* HomeCenterView.swift in Sources */,
+				B6442BC72B46DDC900DF6FFC /* ScreenCenterView.swift in Sources */,
 				B61B2EDC2B4540A600550708 /* MenuButtonView.swift in Sources */,
-				B61B2EEE2B45826A00550708 /* ProjectMenuOneView.swift in Sources */,
 				B61B2EDE2B4543B600550708 /* MenuView.swift in Sources */,
 				B61B2EF62B45910500550708 /* ProjectMenuView.swift in Sources */,
 				B61B2EF02B4586C400550708 /* ProjectMenuTwoView.swift in Sources */,
-				B61B2EDA2B453F7E00550708 /* CenterLogoView.swift in Sources */,
+				B6442BBB2B46B00800DF6FFC /* CommingSoonView.swift in Sources */,
+				B6442BC92B46E60400DF6FFC /* ScreenCapsuleView.swift in Sources */,
 				B61B2EE22B454D1700550708 /* NavTopView.swift in Sources */,
 				B672B1402B4441A700DC841F /* ProjectOneExtendedApp.swift in Sources */,
 				B61B2ED62B4539B900550708 /* GalleryView.swift in Sources */,
+				B6442BC12B46D9A500DF6FFC /* ScreenBannerView.swift in Sources */,
+				B6442BB82B46A9BB00DF6FFC /* DrawerView.swift in Sources */,
 				B61B2EEA2B457D8700550708 /* ProjectTopView.swift in Sources */,
 				B61B2ED82B453CFE00550708 /* TitleView.swift in Sources */,
 				B61B2EF42B458D6900550708 /* ProjectBarView.swift in Sources */,
+				B6442BCB2B46EAA100DF6FFC /* ScreenIdeaView.swift in Sources */,
 				B61B2EE42B454F5400550708 /* NavigationBar.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
